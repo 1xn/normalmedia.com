@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://computing-animals.netlify.app"
 title   = "computing animals"
 languageCode = "en-us"
 theme = "normalmedia.com"
