@@ -75,7 +75,7 @@ disableHugoGeneratorInject = false
   justifyContent = false  # Set "text-align: justify" to .content.
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
