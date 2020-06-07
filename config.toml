@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "A U T O M A T I N G   T H E   C R E A T I V E   P R O C E S S"
+  homeSubtitle = "AUTOMATING THE CREATIVE PROCESS"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
