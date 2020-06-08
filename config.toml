@@ -1,5 +1,5 @@
-baseURL = "https://computing-animals.netlify.app"
-title   = "computing animals"
+baseURL = "https://normalmedia.com"
+title   = "normalmedia.com | computing animals"
 languageCode = "en-us"
 theme = "normalmedia.com"
 
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "h e l l o  f r i e n d"
+  homeSubtitle = "AUTOMATING THE CREATIVE PROCESS"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
