@@ -13,3 +13,5 @@ Stay tuned on RPISU-alt4#Ñ Channel 277.
 More info coming soon in the monthly blog.
 
 Learn more and contribute on [GitHub](https://github.com/1xn).
+
+⁺disclaimer: we think so.
